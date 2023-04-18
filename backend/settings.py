@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-npq5$a7h(*^tnocr4e-cfq0^tg6x#&po^@m+!sp1u_!1szignz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['taskmate-app.eu-north-1.elasticbeanstalk.com']
 
 
 # Application definition
